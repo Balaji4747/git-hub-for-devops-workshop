@@ -22,3 +22,4 @@
   34 git status
   35 git history
 checking commit now
+checking one more time git add push and commits

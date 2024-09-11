@@ -21,3 +21,4 @@
   33 got status
   34 git status
   35 git history
+checking commit now

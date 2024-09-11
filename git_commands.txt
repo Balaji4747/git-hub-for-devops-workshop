@@ -1,0 +1,23 @@
+ 2 pythyon testing.py
+  
+   4 ls
+   9 rm testing.py
+  11 git init
+  15 git status
+  16 dir
+  20 git status
+  21 git add testing.py
+  22 git status
+  23 git rm --cached
+  24 git status
+  25 git add testing.py
+  26 git status
+  27 git commit -m "added testing files"
+  28 git status
+  29 tree
+  30 rm testing.py
+  31 ls
+  32 git restore testing.py
+  33 got status
+  34 git status
+  35 git history

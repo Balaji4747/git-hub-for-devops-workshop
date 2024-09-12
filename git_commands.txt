@@ -26,3 +26,5 @@ checking one more time git add push and commits
 
 
 This is some new changes
+
+i am the boss
